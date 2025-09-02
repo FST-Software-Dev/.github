@@ -1,35 +1,36 @@
-# 🚀 FST UIN Ar-Raniry Software Development
+# 👋 Selamat Datang di FST UIN Software Development
 
-**Selamat datang di FST UIN Ar-Raniry Software Development!**  
-Kami adalah bagian dari Fakultas Sains dan Teknologi, UIN Ar-Raniry, yang berfokus pada pengembangan perangkat lunak inovatif dan teknologi modern.
-
----
-
-## 🌟 Mengapa Bergabung?
-- 🚀 Berkolaborasi dalam proyek berbasis teknologi terkini  
-- 🎯 Mengembangkan keterampilan dalam pengembangan backend  
-- 🔗 Berkontribusi pada ekosistem open-source di lingkungan akademik  
+Ini adalah organisasi GitHub untuk pengembangan software di lingkungan FST UIN.  
+Kami mengelola berbagai proyek, baik yang **public** maupun **private**, untuk mendukung riset, pembelajaran, dan pengembangan aplikasi.
 
 ---
 
-## 🔧 Teknologi yang Digunakan
-**Backend**: Node.js, NestJS, Strapi  
-**Database**: PostgreSQL, MySQL  
+## 📂 Repository Publik
+Berikut repository publik yang bisa diakses siapa saja:
+
+- [file-proxy-gdrive](https://github.com/FST-Software-Dev/file-proxy-gdrive) — Proxy server sederhana untuk mengakses file PDF dari Google Drive dengan melegakan batasan CORS; hanya mendukung file PDF
 
 ---
 
-## 🤝 Cara Berkontribusi
-1. **Fork** repository yang ingin dikembangkan.  
-2. **Buat branch** baru untuk perubahan.  
-3. **Commit** dengan deskripsi yang jelas.  
-4. **Pull request** dan diskusikan dengan tim.  
+## 🔒 Repository Private
+Repository berikut hanya bisa diakses oleh anggota organisasi:
+
+- `web-profile` — Website profil resmi organisasi  
+- `fst-dashboard` — Dashboard utama untuk pengelolaan data  
+- `fst-news-dashboard` — Dashboard manajemen berita  
+- `news-service` — Backend service untuk sistem berita  
 
 ---
 
-## 📢 Hubungi Kami
-📧 **Email**: fst.software.dev@uin-arraniry.ac.id  
-💬 **Discord**: [Join Discord](https://discord.gg/your-link)  
+## 🚀 Visi
+Menjadi wadah kolaborasi mahasiswa FST UIN dalam membangun solusi digital yang inovatif, efisien, dan bermanfaat.
+
+## 🤝 Kontribusi
+Jika ingin berkontribusi, silakan ajukan **pull request** atau buka **issue** pada repository terkait.  
+Untuk akses repository private, hubungi admin organisasi.
 
 ---
 
-✨ **Mari berinovasi, berkreasi, dan membangun masa depan teknologi bersama!** 🚀
+### 📌 Kontak
+- 🌐 Website: [fst.uin.ar-raniry.ac.id](https://fst.uin.ar-raniry.ac.id)  
+- 📧 Email: [220705045@student.ar-raniry.ac.id](mailto:220705045@student.ar-raniry.ac.id)
