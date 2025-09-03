@@ -22,6 +22,12 @@ Repository berikut hanya bisa diakses oleh anggota organisasi:
 
 ---
 
+## 📖 Dokumentasi API
+- [Dashboard API v1.0.0](https://dashboard.fst.uin.ar-raniry.ac.id/documentation/v1.0.0)  
+- [News API](https://api.news.fst.uin.ar-raniry.ac.id/documentation#/)
+
+---
+
 ## 🚀 Visi
 Menjadi wadah kolaborasi mahasiswa FST UIN dalam membangun solusi digital yang inovatif, efisien, dan bermanfaat.
 
